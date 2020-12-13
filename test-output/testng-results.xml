@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="132648" started-at="2020-07-05T17:41:20 IST" finished-at="2020-07-05T17:43:33 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="132648" started-at="2020-07-05T17:41:20 IST" finished-at="2020-07-05T17:43:33 IST">
+      <class name="Academy.E2Eproject.HomePage">
+        <test-method status="PASS" signature="demo(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Academy.E2Eproject.HomePage@11438d26]" name="demo" duration-ms="80005" started-at="2020-07-05T17:41:20 IST" data-provider="getData" finished-at="2020-07-05T17:42:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumarershubham@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shubham123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="demo(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Academy.E2Eproject.HomePage@11438d26]" name="demo" duration-ms="52541" started-at="2020-07-05T17:42:40 IST" data-provider="getData" finished-at="2020-07-05T17:43:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shubham15001@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shubham@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- Academy.E2Eproject.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
